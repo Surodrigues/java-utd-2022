@@ -6,8 +6,8 @@ Projeto desenvolvido ao final do curso utilizando os conhecimentos adquiridos.
 
 ### Conteúdo Programático:
 
-Módulo I – Introdução ao Java e Lógica de programação
- I – História do Java, conhecendo a linguagem: 
+Módulo I – Introdução ao Java e Lógica de programação: 
+ I – História do Java, conhecendo a linguagem
  II – Variáveis e constantes.
  III – Operadores.
  IV – Entrada e saída de dados.
